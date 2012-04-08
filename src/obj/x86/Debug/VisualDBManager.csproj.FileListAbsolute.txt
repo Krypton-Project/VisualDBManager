@@ -1,0 +1,10 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\bin\Debug\VisualDBManager.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\bin\Debug\VisualDBManager.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\VisualDBManager.Form1.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\VisualDBManager.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\VisualDBManager.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\VisualDBManager.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\UIS\VisualDBManager\obj\x86\Debug\VisualDBManager.addForm.resources
