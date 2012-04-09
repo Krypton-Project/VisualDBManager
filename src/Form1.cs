@@ -52,6 +52,8 @@ namespace VisualDBManager
         private void Form1_Load(object sender, EventArgs e)
         {
             this.BringToFront();
+            if (!Directory.Exists(directory))   /* Sorry! Forgot to add this :/ */
+                Directory.CreateDirectory(directory);
         }
 
         public string StreamProfile(person prof, string directory)
